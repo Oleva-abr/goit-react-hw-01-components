@@ -1,1 +1,1 @@
-# tess-2
+#goit-react-hw-01-components
