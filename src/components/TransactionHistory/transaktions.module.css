@@ -1,20 +1,22 @@
-.transaction-history {
-  width: 500px;
+.transaction_history {
+  width: 300px;
   background-color: rgb(176, 216, 223);
-  border: 1px solid grgb(176, 216, 223);
+  border: 1px solid black;
   text-align: center;
   margin: auto;
+  border-radius: 15px;
+  overflow: hidden;
 }
 
 th {
-  border: 1px solid grgb(176, 216, 223);
+  border: 1px solid black;
 
   font-weight: 600;
   font-size: 15px;
   padding: 5px 0 5px 0;
 }
 td {
-  border: 1px solid grgb(176, 216, 223);
+  border: 1px solid black;
   font-weight: 300;
   font-size: 13px;
   padding: 5px 0 5px 0;
