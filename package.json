@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oleva-abr.github.io/goit-react-hw-01-components/",
+  "homepage": "https://oleva-abr.github.io/goit-react-hw-01-components",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
