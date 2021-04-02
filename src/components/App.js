@@ -4,10 +4,10 @@ import Statistics from './Statistic/Statistic';
 import FriendList from './FriendList/FriendList';
 import TransactionHistory from './TransactionHistory/TransactionHistory';
 
-import user from './Profile/user.json';
-import statisticalData from './Statistic/statistic-data.json';
-import friends from './FriendList/friends.json';
-import transactions from './TransactionHistory/transactions.json';
+import user from '../database/user.json';
+import statisticalData from '../database/statistic-data.json';
+import friends from '../database/friends.json';
+import transactions from '../database/transactions.json';
 
 const App = () => (
   <>
